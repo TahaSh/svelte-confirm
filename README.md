@@ -1,4 +1,4 @@
-# svelte-confirm
+# svelte-confirm ([demo](https://svelte.dev/repl/56c729e10a1e4348809367eda9bdc0d3?version=3.12.1))
 
 A reusable solution for showing confirm dialogs in Svelte.
 
