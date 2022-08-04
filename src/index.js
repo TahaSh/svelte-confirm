@@ -1,1 +1,3 @@
-export { default as Confirm } from './Confirm.svelte'
+import Confirm from './Confirm.svelte';
+
+export default Confirm;
