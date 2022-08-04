@@ -2,6 +2,7 @@
   "name": "svelte-confirm",
   "version": "0.0.0",
   "main": "src/index.js",
+  "type": "module",
   "description": "A Svelte component for showing confirm dialogs",
   "license": "MIT",
   "repository": {
